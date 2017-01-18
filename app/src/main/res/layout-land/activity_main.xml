@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_height="200dp"
+        android:id="@+id/Land_Fragment_Container"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="false"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="40dp"
+        android:layout_width="500dp">
+    </FrameLayout>
+
+    <Button
+        android:text="@string/chart"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:id="@+id/chart_btn"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="268dp"/>
+
+    <Button
+        android:text="@string/block"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:id="@+id/block_btn"
+        android:layout_marginTop="266dp"
+        android:layout_marginLeft="200dp"
+        android:layout_alignParentBottom="true"/>
+
+    <Button
+        android:text="@string/price"
+        android:layout_height="40dp"
+        android:id="@+id/price_btn"
+        android:layout_width="80dp"
+        android:layout_marginTop="270dp"
+        android:layout_marginLeft="350dp"
+        android:layout_alignParentBottom="true"/>
+
+    <Button
+        android:text="@string/list"
+        android:layout_height="40dp"
+        android:id="@+id/list_blocks"
+        android:layout_alignParentEnd="false"
+        android:layout_width="80dp"
+        android:layout_marginLeft="500dp"
+        android:layout_marginTop="268dp"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

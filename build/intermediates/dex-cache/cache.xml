@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b58793039c44bbf34198ee6c2fbf9d22640dde19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_f43a9af8b9d55874e3e0fdfa445b55446079d0ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_717b67d5d9bc0e7c14d170ccdb5ee8787b0d2a47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_976adc4e11edeab5d626a4767eed7122909b0125/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/android-studio/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_3188e77d6079e5e79ccb3e9caf297f974fe535f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_3994028794fa52a9f4ff05811b25dfcdbff139b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_ca9777220fd856c18c4e1e2877055ed5ea299f4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/libs/commons-io-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24f6678d458e65f08113a079e3724581eca1184">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-io-2.5_7d75e49c619342e5dbe4eda97dab3583b2699fa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_0b948517662cc14c9e6c7f8d7ae5620e2e06b547/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="193e4f22d9a8497d5ebdf1a0790697e21f134b67">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63e8ba34085fcffc1798321d04528ec45d52ffe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_4c112fdaa34abfbde84babe1bb31cc9b135d7310/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/libs/jsoup-1.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b471012876a440ae746860d80738be2dd104655">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.10.1_669407968eaa88d89738b62340e786560abf9e55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/libs/commons-validator-1.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86d05a46e8f064b300657f751b5a98c62807e2a0">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-validator-1.5.1_fdff85896b17967901091c2715c94d9b0e3aa5eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_4c31ea2fb21405289c062db6720ef18cae4102ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_e29382f0b9996b8a32981534e44fbcea9930afd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_3dece3e57591582732638fb9ec477fd30a838555/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2e48ec01cb84921d48768722dfb7e11286441caa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_ec7be9bbe224cf843c7b1aafadf734c55526cabb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0ddc953326ca7e1ec22cc00bb00f71bef346a7d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae1c0b56e3a0ed39db51fac79378cfb2b1db3990">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_40d5612d84d3870d57849e4a361405139d8180fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_66d82e607fd79784b0dc15e7ee279530714429d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/adam/MobileDevProjects/Lab5 deliverables/BitcoinDashboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_ceb4be0e51cc82a1e298628ffcfae3363abf3b90/classes.dex" />
+    </item>
+
+</items>

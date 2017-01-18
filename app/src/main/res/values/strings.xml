@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BitcoinDashboard</string>
+
+    <!-- MainActivity string values -->
+    <string name="list">List</string>
+    <string name="chart">Chart</string>
+    <string name="block">Block</string>
+    <string name="price">Price</string>
+
+    <!-- Block Details Fragment string values -->
+    <string name="block_hash">Hash</string>
+    <string name="block_height">Height</string>
+    <string name="block_prev">Prev Hash</string>
+    <string name="block_bits">Bits</string>
+    <string name="block_number">Number</string>
+    <string name="go_block">Go</string>
+    <string name="go_directions">Enter block height</string>
+    <string name="next_block">Next</string>
+    <string name="prev_block">Prev</string>
+
+    <!-- List Fragment string values -->
+    <string name="add_address">Add</string>
+    <string name="balance_dir">Balance</string>
+
+    <!-- Chart Fragment string values -->
+    <string name="ChartDirections">Enter 1d, 5d</string>
+    <string name="ChartQueryBtnTxt">Query</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

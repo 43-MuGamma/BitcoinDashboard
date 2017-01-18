@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.adam.bitcoindashboard.ChartFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <EditText
+        android:ems="10"
+        android:id="@+id/Chart_Query_View"
+        android:layout_below="@+id/Chart_Directions"
+        android:layout_centerHorizontal="true"
+        android:inputType=""
+        android:layout_height="40dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="70dp"
+        android:layout_width="250dp"
+        android:hint="@string/ChartDirections" />
+
+    <Button
+        android:text="@string/ChartQueryBtnTxt"
+        android:layout_below="@+id/Chart_Query_View"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/Query_Button"
+        android:layout_width="80dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="-205dp" />
+
+    <WebView
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_height="380dp"
+        android:id="@+id/chart_view"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="-190dp"
+        android:layout_width="370dp" />
+</LinearLayout>

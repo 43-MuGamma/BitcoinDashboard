@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BitcoinDashboard</string>
+
+    <!-- MainActivity string values -->
+    <string name="list">List.</string>
+    <string name="chart">Graph.</string>
+    <string name="block">Bloq.</string>
+    <string name="price">Prix</string>
+
+    <!-- Block Details Fragment string values -->
+    <string name="block_hash">Hacher</string>
+    <string name="block_height">La Taille</string>
+    <string name="block_prev">Préc Hacher</string>
+    <string name="block_bits">Morceaux</string>
+    <string name="block_number">Nombre</string>
+    <string name="go_block">All.</string>
+    <string name="go_directions">Entrer la hauteur du bloc</string>
+    <string name="next_block">Pro</string>
+    <string name="prev_block">Préc</string>
+
+    <!-- List Fragment string values -->
+    <string name="add_address">Ajo.</string>
+    <string name="balance_dir">Équilibre</string>
+
+    <!-- Chart Fragment string values -->
+    <string name="ChartDirections">Entrer: 1d, 5d</string>
+    <string name="ChartQueryBtnTxt">Ques.</string>
+</resources>

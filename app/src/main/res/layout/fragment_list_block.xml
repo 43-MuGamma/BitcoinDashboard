@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.adam.bitcoindashboard.ListBlockFragment">
+
+    <Button
+        android:id="@+id/AddBtn"
+        android:layout_weight="0"
+        android:layout_marginLeft="0dp"
+        android:layout_height="40dp"
+        android:text="@string/add_address"
+        android:layout_width="80dp"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:text="@string/balance_dir"
+        android:id="@+id/BalanceTxt"
+        android:layout_weight="0"
+        android:layout_marginTop="45dp"
+        android:layout_marginLeft="-70dp"
+        android:layout_width="100dp"
+        android:layout_height="45dp" />
+
+    <EditText
+        android:ems="10"
+        android:id="@+id/CreateAddressTxt"
+        android:layout_weight="0"
+        android:layout_height="35dp"
+        android:layout_marginLeft="0dp"
+        android:layout_width="250dp"
+        android:layout_marginTop="25dp"
+        android:inputType="text" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:id="@+id/TotalAmountTxt"
+        android:layout_weight="0"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="-290dp" />
+
+    <ListView
+        android:id="@+id/block_address_list"
+        android:layout_height="400dp"
+        android:layout_marginTop="107dp"
+        android:layout_marginLeft="-200dp"
+        android:layout_width="350dp"/>
+
+</LinearLayout>

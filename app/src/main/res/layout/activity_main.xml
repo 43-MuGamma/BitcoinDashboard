@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.adam.bitcoindashboard.MainActivity"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:text="@string/price"
+        android:id="@+id/price_btn"
+        android:layout_alignParentBottom="false"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="180dp"
+        android:layout_marginTop="430dp"
+        tools:ignore="RtlHardcoded" />
+
+    <Button
+      android:text="@string/list"
+        android:layout_height="40dp"
+        android:id="@+id/list_blocks"
+        android:layout_alignParentBottom="false"
+        android:layout_alignParentEnd="false"
+        android:layout_width="80dp"
+        android:layout_marginLeft="270dp"
+        android:layout_marginTop="440dp"
+        tools:ignore="RtlHardcoded" />
+
+    <Button
+            android:text="@string/block"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:id="@+id/block_btn"
+        android:layout_alignParentBottom="false"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="440dp"
+        tools:ignore="RtlHardcoded" />
+
+    <Button
+        android:text="@string/chart"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="false"
+        android:id="@+id/chart_btn"
+        android:layout_alignParentBottom="false"
+        android:layout_marginTop="440dp" />
+
+    <FrameLayout
+        android:id="@+id/Fragment_Container"
+        android:layout_height="350dp"
+        android:layout_width="360dp"
+        android:layout_below="@+id/list_blocks"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="-448dp">
+    </FrameLayout>
+
+</RelativeLayout>

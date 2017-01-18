@@ -1,0 +1,130 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.adam.bitcoindashboard.BlockDetailsFragment"
+    android:weightSum="1">
+
+    <TextView
+        android:text="@string/block_hash"
+        android:layout_height="25dp"
+        android:id="@+id/black_hash_text"
+        android:layout_marginLeft="10dp"
+        android:layout_width="50dp" />
+
+    <TextView
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/block_hash_view"
+        android:layout_height="25dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_width="250dp" />
+
+    <TextView
+        android:text="@string/block_height"
+        android:layout_height="25dp"
+        android:id="@+id/bloch_height_text"
+        android:layout_weight="0"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="-300dp"
+        android:layout_width="50dp" />
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:id="@+id/block_height_view"
+        android:layout_width="150dp"
+        android:layout_height="25dp"
+        android:layout_below="@+id/block_hash_view"
+        android:layout_alignStart="@+id/block_hash_view"
+        android:layout_marginLeft="0dp" />
+
+    <TextView
+        android:text="@string/block_prev"
+        android:layout_height="25dp"
+        android:id="@+id/block_prev_text"
+        android:layout_weight="0"
+        android:layout_marginTop="55dp"
+        android:layout_marginLeft="-200dp"
+        android:layout_width="70dp" />
+
+    <TextView
+        android:layout_height="25dp"
+        android:layout_marginTop="53dp"
+        android:id="@+id/block_prev_block_view"
+        android:layout_below="@+id/block_height_view"
+        android:layout_alignStart="@+id/block_height_view"
+        android:layout_marginLeft="0dp"
+        android:layout_width="250dp" />
+
+    <TextView
+        android:text="@string/block_bits"
+        android:layout_height="25dp"
+        android:id="@+id/block_bits_text"
+        android:layout_weight="0"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="-320dp"
+        android:layout_width="25dp" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="80dp"
+        android:id="@+id/block_bits_view"
+        android:layout_below="@+id/block_prev_block_view"
+        android:layout_alignStart="@+id/block_prev_block_view"
+        android:layout_marginLeft="15dp" />
+
+    <TextView
+        android:text="@string/block_number"
+        android:layout_height="25dp"
+        android:id="@+id/block_number_text"
+        android:layout_weight="0"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="-190dp"
+        android:layout_width="50dp" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="25dp"
+        android:id="@+id/block_number_view"
+        android:layout_marginTop="100dp"
+        android:layout_below="@+id/block_bits_view"
+        android:layout_alignStart="@+id/block_bits_view"
+        android:layout_marginLeft="10dp" />
+
+    <Button
+        android:text="@string/go_block"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:id="@+id/go_block"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="-200dp" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:id="@+id/BlockQueryView"
+        android:layout_marginTop="130dp"
+        android:layout_height="40dp"
+        android:inputType="number"
+        android:hint="@string/go_directions" />
+
+    <Button
+        android:text="@string/prev_block"
+        android:layout_height="40dp"
+        android:id="@+id/prev_btn"
+        android:layout_weight="0"
+        android:layout_marginTop="167dp"
+        android:layout_marginLeft="-300dp"
+        android:layout_width="80dp" />
+
+    <Button
+        android:text="@string/next_block"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:id="@+id/next_btn"
+        android:layout_weight="0"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="167dp" />
+
+</LinearLayout>
